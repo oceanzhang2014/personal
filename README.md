@@ -25,9 +25,10 @@
    latexmk -c
    ```
 #论文效果
-![image](https://github.com/oceanzhang2014/personal/tree/main/fig/1.png)
-![image](https://github.com/oceanzhang2014/personal/tree/main/fig/2.png)
-![image](https://github.com/oceanzhang2014/personal/tree/main/fig/3.png)
-![image](https://github.com/oceanzhang2014/personal/tree/main/fig/4.png)
-![image](https://github.com/oceanzhang2014/personal/tree/main/fig/5.png)
-![image](https://github.com/oceanzhang2014/personal/tree/main/fig/6.png)
+![image](https://github.com/oceanzhang2014/personal/blob/main/fig/1.png)
+![image](https://github.com/oceanzhang2014/personal/blob/main/fig/2.png)
+![image](https://github.com/oceanzhang2014/personal/blob/main/fig/3.png)
+![image](https://github.com/oceanzhang2014/personal/blob/main/fig/4.png)
+![image](https://github.com/oceanzhang2014/personal/blob/main/fig/5.png)
+![image](https://github.com/oceanzhang2014/personal/blob/main/fig/6.png)
+
