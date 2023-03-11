@@ -1,8 +1,9 @@
 # 西安工程大学学位论文 LaTeX 模板
 
 
-本项目是中国科学技术大学的学位论文 LaTeX 模板 ustcthesis修改而来，格式符合西安工程大学
-本科学位论文要求，大家按需下载使用
+本项目是基于中国科学技术大学的学位论文 LaTeX 模板 ustcthesis修改而来，
+按照西安工程大学论文要求修改
+可能存在偏差，大家按需下载使用
 
 注意：
 1. 使用说明文档 `ustcthesis-doc.pdf` 在发布版中附带，用户也可自行编译；**使用模板前应仔细阅读**。
@@ -24,3 +25,9 @@
    latexmk -c
    ```
 #论文效果
+![image](https://github.com/oceanzhang2014/personal/tree/main/fig/1.png)
+![image](https://github.com/oceanzhang2014/personal/tree/main/fig/2.png)
+![image](https://github.com/oceanzhang2014/personal/tree/main/fig/3.png)
+![image](https://github.com/oceanzhang2014/personal/tree/main/fig/4.png)
+![image](https://github.com/oceanzhang2014/personal/tree/main/fig/5.png)
+![image](https://github.com/oceanzhang2014/personal/tree/main/fig/6.png)
